@@ -1,6 +1,4 @@
-# 主要思路 代码及截图
-
-实验一
+## 实验一
 
 ### 实验代码
 改段代码验证了Activity的生命周期
@@ -53,3 +51,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+### 实验截图
+#### Helloword截图
+(https://img-blog.csdnimg.cn/20190319235917995.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTQ2MDUz,size_16,color_FFFFFF,t_70)
+#### 生命周期测试截图
+(https://img-blog.csdnimg.cn/20190319113055747.png)
